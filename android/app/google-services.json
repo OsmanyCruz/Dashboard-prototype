@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897072896949",
+    "project_id": "zipporonsonvendedores",
+    "storage_bucket": "zipporonsonvendedores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897072896949:android:03bca3a818ae1f2a7757fc",
+        "android_client_info": {
+          "package_name": "com.example.zippp_vendedores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897072896949-7o4fjcnu0h107tbb0tr3h625p9v90i2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGWTo9DcUnNoh2kRjti6lnofDYSwp_yks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897072896949-7o4fjcnu0h107tbb0tr3h625p9v90i2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
