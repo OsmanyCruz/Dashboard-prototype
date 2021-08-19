@@ -28,6 +28,6 @@ To build and run this project:
 
 -----
 
-<img src="https://i.ibb.co/tmFPc71/20210818-222005.gif" height="500" />     |
+<img src="https://i.ibb.co/tmFPc71/20210818-222005.gif" height="500" /> 
 
  
